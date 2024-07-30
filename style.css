@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+}
+    .error
+    {
+        color: Red;
+        visibility: hidden;
+    }
+   .pa{
+    text-align: center;
+    margin:200px;
+   }
+   .success{
+    color: green;
+    visibility: hidden;
+   }
